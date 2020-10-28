@@ -2,5 +2,4 @@
 The app converts the weight input from oz to gram.
 
 
-<img src="WeightConvert.JPG" style="width:30%"> 
-<img src="WeightConvert.JPG" width="48">
+<img src="WeightConvert.JPG" width="300">
